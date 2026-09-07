@@ -1,6 +1,6 @@
 cask "gamendori" do
-  version "1.2,3"
-  sha256 "ee42f73c9467deb1831a3f62124143b2ac116cdc359170c12a6b67326f5b7417"
+  version "1.3,4"
+  sha256 "421f7e790b621b2a001eea7168bbbbe9e7500833141bcf4dfe1c96e60e046bb1"
 
   url "https://gamendori.com/downloads/Gamendori-#{version.csv.first}.dmg"
   name "Gamendori"
@@ -25,3 +25,4 @@ cask "gamendori" do
     "~/Library/Saved Application State/com.vishutdhar.gamendori.savedState",
   ]
 end
+
