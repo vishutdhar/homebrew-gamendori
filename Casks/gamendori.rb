@@ -1,6 +1,6 @@
 cask "gamendori" do
-  version "1.4.1,7"
-  sha256 "cd194cb6026d674b3b41bc4a4a3e0d69944bee6370e3519dcb462125c2403ce8"
+  version "1.5,8"
+  sha256 "aa408b4330f8c33b01bd6381efe54a38034ed59c2410aa1496a279ae3a84fc19"
 
   url "https://gamendori.com/downloads/Gamendori-#{version.csv.first}.dmg"
   name "Gamendori"
